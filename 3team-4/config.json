@@ -1,0 +1,9 @@
+{
+  "serial": {
+    "port": "com8",
+    "baudRate": 115200
+  },
+  "server": {
+    "port": 3000
+  }
+}
