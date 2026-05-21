@@ -60,18 +60,22 @@ Smart Grip Car는 STM32F103 기반의 스마트 RC Car 프로젝트입니다.
 # 🎥 Demo Video
 
 ## 🚗 RC Car Driving Demo
-- 조이스틱 기반 실시간 RC카 주행 제어 영상
-- UART 통신을 활용한 전진 / 후진 / 좌우 이동 구현
-  
-- [RC카 주행 영상](https://github.com/user-attachments/assets/bd490959-5aa7-4c3c-83e8-b82d0b823698)
+
+- 조이스틱 기반 실시간 RC카 주행 제어
+- UART 통신 기반 원격 제어 구현
+- 전진 / 후진 / 좌회전 / 우회전 동작 구현
+
+🔗 [RC카 주행 영상 보기](https://github.com/user-attachments/assets/bd490959-5aa7-4c3c-83e8-b82d0b823698)
 
 ---
 
 ## 📡 Sensor & Control Demo
-- 초음파 센서 및 조도 센서 동작 영상
+
+- 초음파 센서 기반 거리 측정 기능
+- 조도 센서를 활용한 환경 인식 기능
 - 센서 데이터 기반 제어 시스템 테스트
-  
-- [센서 및 제어 시연 영상](https://github.com/user-attachments/assets/37e4f377-a42b-440f-a023-9bb9e8f8d4ec)
+
+🔗 [센서 및 제어 시연 영상 보기](https://github.com/user-attachments/assets/37e4f377-a42b-440f-a023-9bb9e8f8d4ec)
 
 ---
 
