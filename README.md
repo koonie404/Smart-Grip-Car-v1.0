@@ -4,7 +4,7 @@
 STM32 기반 UART 통신 및 센서 제어를 활용한 Smart RC Car 프로젝트
 
 <p align="center">
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/f23a325c-8e20-4b4a-86e5-423071622102" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/f23a325c-8e20-4b4a-86e5-423071622102" />
 </p>
 
 ---
